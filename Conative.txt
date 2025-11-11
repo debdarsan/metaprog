@@ -1,0 +1,383 @@
+Conative (Choosing)
+1.Convincer Demonstration: Number of Times - Length of Time
+1.How do you prefer to be shown that a new product or idea is effective?
+a) I like to see it proven multiple times. 
+b) I prefer a demonstration that shows long-term effectiveness. 
+2. When learning a new skill, how much demonstration do you need?
+a) I prefer to see the skill demonstrated repeatedly. 
+b) I feel more confident after seeing the skill demonstrated over a longer period. 
+3. How do you convince others that a certain approach is best?
+a) I show them that the approach works consistently. 
+b) I show them that it works over an extended period or time. 
+4. When evaluating a new idea, what would make you most likely to believe in it?
+a) If I see it applied successfully multiple times. 
+b) If I see it working effectively over a longer duration. 
+5. When introducing a new system, how do you demonstrate its effectiveness?
+a) By showing how it works in multiple situations. 
+b) By demonstrating its long-term benefits and reliability.
+Answers: 
+* Number of Times
+* Length of Times
+
+2. Motivation Direction: Towards - Away From
+1. What motivates you to achieve your goals?
+a) I am motivated by what I want to achieve. 
+b) I am motivated by avoiding failure or negative outcomes
+2. How do you approach a challenge?
+a) I focus on the benefits or rewards that will come from overcoming it. 
+b) I focus on avoiding the negative consequences of not succeeding. 
+3. When working on a project, what keeps you focused?
+a) I stay focused on the goal and the desired outcome. 
+b) I stay focused by keeping in mind what I want to avoid. 
+4. What drives your decision-making?
+a) I make decisions based on where I want to go or what I want to achieve. 
+b) I make decisions based on avoiding mistakes or negative situations. 
+5. When setting goals, how do you frame them?
+a) I set goals based on what I aspire to attain. 
+b) I set goals to avoid undesirable situations or consequences. 
+Answers: 
+* Towards
+* Away From
+
+3. Organization Styles: Options – Procedures
+1. When planning a task, how do you prefer to organize the process?
+a) I prefer having a variety of possible ways to approach the task. 
+b) I like following a step-by-step process or procedure to complete it. 
+2. How do you feel about choosing between different methods for solving a problem?
+a) I enjoy having multiple choices and considering different alternatives. 
+b) I prefer to follow a set procedure that has been proven to work. 
+3. When working on a project, how do you prefer to organize your workflow?
+a) I prefer to keep my options open and adapt as I go. 
+b) I like to have a clear, structured plan to follow. 
+4. When making decisions, what’s your preferred approach?
+a) I prefer to explore different options before making a decision. 
+b) I prefer following a well-established procedure for decision-making. 
+5. How do you prefer a team to approach problem-solving?
+a) I like a flexible approach where team members contribute different ideas. 
+b) I like a structured approach with clear guidelines and procedures. 
+Answers: 
+* Options                 
+* Procedures
+
+4. Adaptation: Judging – Perceiving
+1. When approaching a new task, how do you like to plan?
+a) I like to have a clear, detailed plan in place before starting. 
+b) I prefer to remain flexible and adapt as I go along. 
+2. How do you handle changes in a project or deadline?
+a) I prefer things to stay on track and dislike unexpected changes. 
+b) I’m comfortable adapting to changes as they come up. 
+3. When completing tasks, how do you prefer to manage your time?
+a) I like to organize my time and stick to deadlines. 
+b) I’m more spontaneous and flexible with my time, depending on the task. 
+4. How do you respond when a plan you’ve made needs to be changed?
+a) I prefer to stick to the plan and feel frustrated when things change. 
+b) I’m open to changing the plan and adjusting to new circumstances. 
+5. How do you feel about deadlines in a work environment?
+a) I like having firm deadlines and sticking to them. 
+b) I prefer having some flexibility around deadlines and adjusting as needed. 
+Answers: 
+* Judging                
+* Perceiving
+
+5. Modus Operandi: Necessity – Possibility – Choice
+1. How do you approach important decisions?
+a) By considering what is absolutely required.
+b) By imagining what could be.
+c) By analysing various available options.
+2. What’s your preferred way to start a new project?
+a) Focusing on essential tasks first.
+b) Thinking about innovative ways to begin.
+c) Selecting from different strategies.
+3. How do you evaluate opportunities in your career?
+a) By ensuring they meet critical criteria.
+b) By envisioning their potential growth.
+c) By weighing various appealing alternatives.
+4. How do you handle challenges in daily life?
+a) Addressing what must be done.
+b) Considering creative solutions.
+c) Deciding among multiple options.
+5. What influences your decision-making process?
+a) Urgent and unavoidable needs.
+b) Future opportunities and potentials.
+c) The freedom to decide between multiple paths.
+Answers: 
+* Necessity             
+* Possibility
+* Choice
+
+6. Preference: People - Place – Things – Activity - Information
+1. What do you enjoy the most during your free time?
+a) Interacting with people. 
+b) Visiting a favourite place. 
+c) Engaging with objects or tools. 
+d) Pursuing an activity you love. 
+e) Learning new information. 
+2. What makes a job satisfying for you?
+a) Collaborating with colleagues. 
+b) Working in a comfortable environment. 
+c) Handling tangible items. 
+d) Completing meaningful tasks. 
+e) Acquiring knowledge or skills. 
+3. How do you prefer to spend your weekends?
+a) Socializing with friends or family. 
+b) Exploring a new location. 
+c) Creating or fixing things. 
+d) Participating in a hobby or sport. 
+e) Reading or researching topics of interest.
+4. What energizes you the most in a new project?
+a) Connecting with team members.
+b) Working in an inspiring setting. 
+c) Using tools or materials effectively. 
+d) Getting actively involved in the work. 
+e) Understanding all the details. 
+5. How do you decide on your vacation plans?
+a) Prioritizing time with loved ones. 
+b) Choosing an appealing destination. 
+c) Considering activities or items involved. 
+d) Planning exciting excursions. 
+e) Learning about the history or culture of the place. 
+Answers: 
+* People          
+* Place
+* Things
+* Activity
+* Information
+
+7. Goal Striving: Sceptic – Optimization – Perfectionism
+1. How do you ensure your goals are realistic?
+a) By questioning assumptions critically.
+b) By finding the best balance of effort and outcome.
+c) By focusing on flawless execution.
+2. How do you approach self-improvement?
+a) By challenging conventional methods.
+b) By seeking practical, effective solutions.
+c) By striving for ideal standards.
+3. What’s your focus when completing a major task?
+a) Testing every aspect for validity.
+b) Ensuring maximum efficiency.
+c) Delivering an impeccable result.
+4. How do you prioritize goals?
+a) By questioning their true importance.
+b) By assessing cost-benefit ratios.
+c) By ranking them for exact precision.
+5. How do you react to failure?
+a) By doubting the initial approach.
+b) By refining the process for future attempts.
+c) By reworking until flawless results are achieved.
+Answers: 
+* Sceptic      
+* Optimization
+* Perfectionism
+                  
+8. Buying: Cost – Quality - Time
+1. How do you choose a product?
+a) By finding the most affordable option.
+b) By ensuring the highest standard.
+c) By selecting what’s available immediately.
+2. What’s your primary consideration when hiring a service?
+a) Staying within budget.
+b) Getting excellent results.
+c) Receiving quick and reliable service.
+3. How do you evaluate a new gadget?
+a) By determining its value for money.
+b) By assessing durability and performance.
+c) By checking how soon it fulfils your needs.
+4. What’s most important in grocery shopping?
+a) Keeping expenses low.
+b) Buying fresh and premium items.
+c) Minimizing the time spent shopping.
+5. How do you decide on a vacation package?
+a) Finding an economical deal.
+b) Opting for a luxurious experience.
+c) Picking something that fits your schedule.
+Answers: 
+* Cost      
+* Quality 
+* Time
+
+9. Social Convincer: Distrusting - Naïve
+1. How do you typically view advice from new acquaintances?
+a) I question their intentions.
+b) I assume they have good intentions.
+2. How do you approach meeting someone for the first time?
+a) I keep my guard up until they earn my trust.
+b) I trust them unless they give me a reason not to.
+3. How do you evaluate online reviews?
+a) I assume some reviews might be misleading.
+b) I generally take them at face value.
+4. How do you decide whether a salesperson is honest?
+a) I look for signs of exaggeration or manipulation.
+b) I tend to believe they’re being truthful.
+5. How do you respond to requests for help from strangers?
+a) I carefully assess their motives before acting.
+b) I usually offer help without overthinking their motives.
+Answers: 
+* Distrusting     
+* Naïve
+
+10. Interactive: Competitive – Cooperative, Win -Lose, Win-Win
+Competitive – Cooperative
+Question 1: How do you approach teamwork?
+a) I focus on standing out individually.
+b) I prioritize collaboration and group success.
+Question 2: How do you handle conflict in a group setting?
+a) I aim to win the argument or discussion.
+b) I look for compromises that benefit everyone.
+Question 3: What’s your preferred way of achieving goals in a team?
+a) By outperforming others.
+b) By working together and leveraging everyone’s strengths.
+Question 4: How do you react to recognition in a group?
+a) I feel motivated to outperform peers.
+b) I feel motivated to uplift the group as a whole.
+Question 5: How do you plan group activities?
+a) By emphasizing individual performance.
+b) By encouraging collective effort and shared success.
+Win/Lose - Win/Win
+Question 1: What’s your approach to resolving a disagreement?
+c) I ensure my perspective is the one accepted.
+d I seek a resolution that satisfies everyone involved.
+Question 2: How do you approach negotiations?
+c) I focus on securing the best deal for myself.
+d) I strive for outcomes that benefit all parties.
+Question 3: What motivates you during a competitive task?
+c) The desire to come out as the winner.
+d) The possibility of mutual success with others.
+Question 4: How do you measure success in collaborative projects?
+c) By achieving personal success or recognition.
+d) By ensuring shared achievements among team members.
+Question 5: How do you handle differences in a partnership?
+c) By asserting my position strongly.
+d) By finding solutions that work for both sides.
+Answers: 
+* Competitive  
+* Cooperative
+* Win -Lose
+* Win-Win
+
+11. Directness:  Inferential – Direct, High Context – Low Context
+Inferential – Direct
+1. How do you prefer people to communicate with you?
+a) I appreciate subtle hints and implications.
+b) I prefer straightforward and explicit communication.
+2. How do you express your thoughts during discussions?
+a) By suggesting ideas without stating them explicitly.
+b) By clearly and openly stating my ideas.
+3. How do you interpret feedback?
+a) I look for underlying meaning and context.
+b) I focus on the literal words and clear advice.
+4. How do you provide instructions to others?
+a) By giving hints and expecting them to deduce the details.
+b) Direct: By outlining clear, step-by-step instructions.
+5. How do you prefer giving compliments?
+a) Through subtle gestures or indirect remarks.
+b) By explicitly expressing praise.
+High Context - Low Context
+1. What do you rely on most to understand a conversation?
+c) The setting, tone, and non-verbal cues.
+d) The explicit words spoken.
+2. How do you approach written communication?
+c) By considering the overall tone and style.
+d) By focusing solely on the content.
+3. What do you prioritize in workplace interactions?
+c) Building relationships and understanding implicit expectations.
+d) Clear communication and explicit agreements.
+4. How do you interpret someone’s intentions?
+c) By observing their body language and situational cues.
+d) By listening to their actual words.
+5. How do you prefer instructions for completing tasks?
+c) I prefer examples and context to guide me.
+d) I prefer a detailed and explicit outline.
+Answers: 
+* Inferential
+* Direct
+* High Context 
+* Low Context
+
+12. Management: Control – Delegate – Collaborative - Dump
+1. How do you typically handle task distribution in a team?
+a) I prefer to oversee and manage tasks myself.
+b) I assign tasks to others while monitoring progress.
+c) I actively participate and share responsibilities with the team.
+d) I assign tasks and leave them entirely to the team to handle.
+2. What’s your approach to managing deadlines?
+a) I ensure every step is carefully supervised.
+b) I assign sections to others but keep track of the timeline.
+c) I work with the team to collectively meet deadlines.
+d) I trust the team to handle deadlines independently.
+3. How do you approach handling crises at work?
+a) I take full charge of resolving the situation.
+b) I assign parts of the solution to trusted team members.
+c) I engage the team to brainstorm and implement solutions together.
+d) I leave it to the team to find and execute solutions.
+4. How do you ensure quality in project deliverables?
+a) By reviewing every detail personally.
+b) By assigning quality checks to specific team members.
+c) By discussing quality expectations with the team and ensuring mutual effort.
+d) By trusting the team’s competence to meet the quality standards.
+5. What’s your preferred way to lead a new initiative?
+a) I like to plan and execute most of it myself.
+b) I distribute responsibilities while keeping an overview.
+c) I involve the team in planning and execution from the start.
+d) I step back and let the team take full ownership.
+Answers: 
+* Control                  
+* Delegate
+* Collaborative
+* Dump
+
+
+13. Risk Taking: Aversive - Embracer, Fearful – Excited
+1. How do you feel about taking financial risks?
+a) I avoid them whenever possible.
+b) I actively seek high-risk opportunities for high rewards.
+c) I feel anxious but might consider them.
+d) I feel energized by the possibility of gain.
+2. How do you approach new and uncertain ventures?
+a) I prefer to stick with what’s proven and reliable.
+b) I thrive on the thrill of exploring the unknown.
+c) I hesitate but may move forward cautiously.
+d) I dive in with enthusiasm for the challenge.
+3. How do you handle the possibility of failure in big decisions?
+a) I avoid decisions where failure seems likely.
+b) I see failure as an opportunity to learn and grow.
+c) I focus heavily on avoiding failure but remain uncertain.
+d) I embrace the challenge with optimism and eagerness.
+4. What’s your mindset when facing a risky but innovative idea?
+a) I prefer ideas with proven outcomes.
+b) I support innovative ideas even with significant risks.
+c) I cautiously weigh the risks before deciding.
+d) I’m eager to explore its potential.
+5. How do you react when presented with a high-stakes opportunity?
+a) I focus on minimizing exposure to loss.
+b) I see it as a chance to achieve something extraordinary.
+c) I worry but may consider proceeding.
+d) I’m enthusiastic and ready to seize the opportunity.
+Answers: 
+* Aversive
+* Embracer
+* Fearful
+* Excited
+
+14. Decision Making: Cautious – Bold
+1. How do you approach major life decisions?
+a) I carefully evaluate every detail before acting.
+b) I make decisive choices quickly and confidently.
+2. How do you react to opportunities that require immediate action?
+a) I hesitate, preferring to gather more information first.
+b) I act promptly, trusting my instincts.
+3. How do you handle risky business decisions?
+a) I prioritize safety and minimize risks.
+b) I take calculated risks for potentially higher rewards.
+4. How do you decide between two competing priorities?
+a) I carefully weigh the pros and cons of each option.
+b) I trust my intuition and decide quickly.
+5. How do you deal with unexpected challenges?
+a) I take time to evaluate before responding.
+b) I tackle them head-on without overthinking.
+Answers: 
+* Cautious
+* Bold
+
+
+
+

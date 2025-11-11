@@ -1,0 +1,396 @@
+Cognitive (Thinking)
+1. Representation: Visual, Auditory, Kinesthetic-Language
+1.	When learning something new, do you find it easiest to: 
+A) Watch a demonstration. 
+B) Listen to instructions. 
+C) Try it hands-on yourself.
+2.	Which of these do you remember best after an event? 
+A) How it looked. 
+B) What was said. 
+C) How it felt.
+3.	When describing an experience, do you typically: 
+A) Paint a picture with words. 
+B) Share the dialogue or sounds. 
+C) Focus on physical sensations or movements.
+4.	Do you prefer instructions that are: 
+A) Illustrated or diagram based. 
+B) Verbally explained in detail. 
+C) Step-by-step tasks to complete.
+5.	In a quiet moment, what tends to dominate your thoughts? 
+A) Images or scenes. 
+B) Sounds or voices. 
+C) Feelings or physical experiences.
+Answers:
+*	A: Visual
+*	B: Auditory
+*	C: Kinesthetic
+
+2. Epistemological: Sensor - Intuitor
+1.	Do you make decisions based on: 
+A) Facts and tangible evidence. 
+B) Gut feelings or abstract ideas.
+2.	When solving a problem, do you: 
+A) Rely on step-by-step processes. 
+B) Look for overarching patterns or connections.
+3.	Which do you trust more in decision-making? 
+A) What you can see and measure. 
+B) What you sense or feel internally.
+4.	Are you more likely to notice: 
+A) Details others miss. 
+B) The big picture or general trend.
+5.	Do you prefer discussions that are: 
+A) Grounded in real-world applications. 
+B) Focused on possibilities and ideas.
+Answers:
+*	A: Sensor
+*	B: Intuitor
+
+3. Scale: Global - Specific. Inductive - Deductive
+1.	When planning, do you prefer: 
+A) Starting with the big picture. 
+B) Getting into the specifics immediately.
+2.	Are you more comfortable: 
+A) Drawing conclusions from patterns (inductivE). 
+B) Applying rules to specific cases (deductivE).
+3.	When solving a problem, do you: 
+A) Focus on overarching themes or concepts. 
+B) Break it into small, detailed steps.
+4.	In understanding a topic, do you: 
+A) Want to grasp the overall context first. 
+B) Dive into specific facts and examples first.
+5.	Are you drawn to: 
+A) Broad strategies and frameworks. 
+B) Detailed procedures and action plans.
+Answers:
+*	A: Global or Inductive
+*	B: Specific or Deductive
+
+4. Relationship Comparison: Matching - Mismatching
+1.	When evaluating an idea, do you focus on:
+A) What aligns or fits with the idea. 
+B) What contradicts or doesn’t fit.
+2.	Are you more likely to: 
+A) Agree with others by finding common ground. 
+B) Play the “devil’s advocate” to challenge ideas.
+3.	In reviewing a plan, do you look for: 
+A) Strengths and areas of agreement. 
+B) Weaknesses or inconsistencies.
+4.	When solving a conflict, do you: 
+A) Focus on similarities to build understanding. 
+B) Highlight differences to clarify positions.
+5.	In decision-making, are you inclined to: 
+A) Confirm what’s working. 
+B) Question what’s not working.
+Answers:
+*	A: Matching
+*	B: Mismatching
+
+5. Information Staging: Counting - Discounting
+1.	Do you typically: 
+A) Value every piece of information as important. 
+B) Focus only on the most critical data points.
+2.	When assessing risks, do you: 
+A) Consider all potential problems equally. 
+B) Ignore minor issues to concentrate on major ones.
+3.	Are you more likely to: 
+A) Keep track of every detail in a situation. 
+B) Overlook less important details to stay efficient.
+4.	When reviewing feedback, do you: 
+A) Reflect on every comment made. 
+B) Focus on the most recurring or significant comments.
+5.	Do you prefer to: 
+A) Compile and evaluate all available evidence. 
+B) Rely on select evidence that feels most relevant.
+Answers:
+*	A: Counting
+*	B: Discounting
+
+6. Scenario Type: Optimistic - Pessimistic. Best Case - Worst Case
+1.	When anticipating the outcome of a project, do you: 
+A) Focus on the best-case scenario. 
+B) Consider the worst-case scenario.
+2.	When solving a problem, do you: 
+A) Assume things will work out. 
+B) Look for potential pitfalls.
+3.	In discussions, are you more likely to: 
+A) Highlight opportunities and positives. 
+B) Point out risks and challenges.
+4.	Do you feel most comfortable preparing for: 
+A) Things going right. 
+B) Things going wrong.
+5.	When reviewing plans, do you: 
+A) Celebrate the potential gains. 
+B) Account for possible losses.
+Answers:
+*	A: Optimistic / Best Case
+*	B: Pessimistic / Worst Case
+
+7. Classification Scale: Either-Or. Continuum - Multi-disciplinary
+1.	Do you tend to classify ideas or objects as: 
+A) Clearly one thing or another (either-or). 
+B) Part of a spectrum (continuum).
+2.	When analyzing a topic, do you: 
+A) Stick to one field of expertise. 
+B) Incorporate perspectives from multiple disciplines.
+3.	Are you more likely to say: 
+A) “This is definitely X or Y.” 
+B) “This can be seen as both X and Y, depending on the perspective.”
+4.	In organizing information, do you: 
+A) Create distinct, separate categories. 
+B) Allow for overlapping and fluid categories.
+5.	When debating, do you: 
+A) Take a firm, black-and-white stance. 
+B) Explore nuances and grey areas.
+Answers:
+*	A: Either-Or
+*	B: Continuum / Multi-disciplinary
+
+8. Nature: Static - Systemic. Aristotelian - Non-Aristotelian
+1.	Do you view systems or processes as: 
+A) Fixed and unchanging (statiC). 
+B) Evolving and interconnected (systemiC).
+2.	When explaining phenomena, do you prefer: 
+A) Simple, linear cause-and-effect reasoning. 
+B) Complex, dynamic interrelations.
+3.	Do you think knowledge is: 
+A) Permanent and universal (Aristotelian). 
+B) Contextual and ever-changing (Non-Aristotelian).
+4.	In problem-solving, do you: 
+A) Isolate problems to address them individually. 
+B) Consider the entire system when addressing problems.
+5.	When analyzing a situation, are you more likely to: 
+A) Focus on discrete elements. 
+B) Look for patterns and systemic interactions.
+Answers:
+*	A: Static / Aristotelian
+*	B: Systemic / Non-Aristotelian
+
+9. Focus: Screening - Non-Screening
+1.	When processing information, do you:
+A) Filter out irrelevant details.
+B) Absorb all information, regardless of relevance.
+2.	Are you more likely to:
+A) Quickly focus on what matters most.
+B) Keep your options open by considering everything.
+3.	Do you tend to:
+A) Screen out distractions during tasks.
+B) Welcome multiple inputs, even if they seem unrelated.
+4.	In group discussions, do you:
+A) Hone in on key points.
+B) Explore every suggestion without filtering.
+5.	When learning, do you prefer:
+A) A streamlined, focused approach.
+B) A broad, exploratory approach.
+Answers:
+*	A: Screening
+*	B: Non-Screening
+
+10. Philosophical: Why (Origins) - How (Solutions)
+1.	When learning about a topic, do you focus on: 
+A) Why it exists or happened. 
+B) How it works or can be applied.
+2.	Are you more curious about: 
+A) The origins or causes of a phenomenon. 
+B) Practical ways to address or use the phenomenon.
+3.	In discussions, are you inclined to ask: 
+A) “Why is this important?” 
+B) “How can we use this information?”
+4.	Do you enjoy exploring: 
+A) Philosophical questions and origins. 
+B) Practical applications and solutions.
+5.	When solving a problem, do you: 
+A) Investigate its root causes. 
+B) Devise ways to address it efficiently.
+Answers:
+*	A: Why (Origins)
+*	B: How (Solutions)
+
+11. Communication: Verbal - Non-Verbal, Digital - Analogue
+1.	Do you find it easier to convey your ideas through:
+A) Words and explanations.
+B) Gestures, facial expressions, or visuals.
+2.	In conversations, are you more focused on:
+A) The content of what is said.
+B) The tone, body language, and context.
+3.	When presenting, do you prefer:
+A) Speaking and using written text.
+B) Demonstrations or visual aids.
+4.	Are you more comfortable:
+A) Engaging in detailed discussions.
+B) Letting actions or non-verbal cues speak for you.
+5.	Do you interpret messages better when they are:
+A) Clear and explicit.
+B) Implicit and nuanced.
+Answers:
+*	A: Verbal / Digital
+*	B: Non-Verbal / Analogue
+
+12. Durability: Permeable - Impermeable
+1.	Are your opinions and beliefs:
+A) Easily influenced by new information.
+B) Strong and resistant to change.
+2.	Do you tend to:
+A) Adapt your views when presented with compelling arguments.
+B) Hold onto your initial perspective regardless of opposing ideas.
+3.	When someone criticizes your ideas, do you:
+A) Consider their point and adjust if necessary.
+B) Stand firm in your beliefs.
+4.	In team discussions, are you:
+A) Open to changing your stance for group consensus.
+B) Focused on maintaining your position.
+5.	Do you feel your mindset is:
+A) Flexible and evolving.
+B) Fixed and stable.
+Answers:
+*	A: Permeable
+*	B: Impermeable
+
+13. Causation: Causeless, Linear, Complex, Personal, External, Magical, Correlation.
+1.	When something unexpected happens, how do you usually explain it?
+A) It’s just random or out of my control.
+B) I can usually trace it back to a direct cause-and-effect relationship. 
+C) There are multiple factors at play, and it’s hard to pinpoint just one cause. 
+D) It’s because of something I did or failed to do.
+E) It happened because of circumstances outside my control.
+F) It’s probably part of some larger plan or destiny.
+G) It’s likely that two things are connected, even if I can’t see the direct cause. 
+2.	When you see a successful outcome, how do you explain it?
+A) It just happened by chance. 
+B) It’s the result of a clear and predictable path of actions. 
+C) Success can’t be explained by just one factor; there are many influences.
+D) I believe it’s because of the person’s effort or abilities.
+E) External factors, like timing or luck, played a big role.
+F) It’s a result of something beyond our understanding—perhaps fate. 
+G) There’s likely a connection between this success and other events that happened around the same time.
+3.	When problems arise, how do you typically think about their origins?
+A) I believe things just happen for no particular reason.
+B) I can usually identify a clear chain of events leading to the problem.
+C) There’s usually a combination of reasons behind the problem, and it’s not easy to separate them.
+D) I tend to think it’s because of something I’ve done wrong.
+E) It’s likely due to forces or events outside my control.
+F) I feel like the problem is part of a larger, mysterious design or something I can’t explain. 
+G) There may be a connection between this issue and other situations that seem unrelated.
+4.	When you face a challenge, how do you approach finding a solution?
+A) I often feel that there’s no clear way to solve it—it’s just one of those things.  
+B) I break it down and look for a straightforward cause-and-effect solution. 
+C) I look at the whole picture and try to understand all the possible factors involved. 
+D) I try to figure out how my actions might have contributed to the problem. 
+E) I consider how external circumstances or other people’s actions may have caused it.
+F) I trust that the solution will somehow come to me or unfold in a way I don’t understand. 
+G) I notice if there are patterns or connections between this challenge and other things that have happened.
+5. When two events happen simultaneously, how do you interpret the relationship between them?
+A) They’re likely unrelated and just coincidental.
+B) One is probably the result of the other.
+C) They may be connected, but it’s hard to tell how or why. 
+D) It probably has something to do with my choices or actions. 
+E) It could be due to outside factors, like timing or external influences. 
+F) I feel like it might be part of a bigger plan or mystical connection.
+G) There’s likely a relationship between these events, though I can’t yet see the cause. 
+Answers:
+*	Causeless
+*	Linear
+*	Complex
+*	Personal
+*	External
+*	Magical
+*	COrrelation
+
+14. Completion: Closure - Non-Closure
+1.	When completing a task, do you feel:
+A) A strong need for resolution and finality.
+B) Comfortable leaving some things unresolved.
+2.	Are you more likely to:
+A) Finish everything before moving to the next task. 
+B) Juggle multiple incomplete tasks simultaneously.
+3.	In decision-making, do you:
+A) Prefer clear-cut conclusions.
+B) Enjoy exploring open-ended possibilities.
+4.	When discussing issues, do you:
+A) Seek a definitive answer or solution.
+B) Accept ambiguity or ongoing debate.
+5.	Do you find it easier to:
+A) Close discussions with clear outcomes.
+B) Leave things open for future exploration.
+Answers:
+*	A: Closure
+*	B: Non-Closure
+
+15. Information Kind: Quantitative - Qualitative
+1.	Do you prefer data that is:
+A) Measurable and numerical.
+B) Descriptive and narrative.
+2.	When making decisions, do you rely more on:
+A) Statistics and hard evidence. 
+B) Context and personal insights.
+3.	Are you drawn to research that is:
+A) Analytical and data driven.
+B) Interpretative and meaning-focused.
+4.	Do you evaluate success based on:
+A) Metrics and performance indicators.
+B) Experiences and outcomes.
+5.	When explaining something, do you:
+A) Use facts and figures.
+B) Tell stories and provide examples.
+Answers:
+*	A: Quantitative
+*	B: Qualitative
+
+16. Stream of Consciousness: Focused - Diffused
+1.	Do you find your thoughts are:
+A) Linear and directed toward a specific goal. 
+B) Wandering and exploring multiple ideas.
+2.	When working, do you:
+A) Concentrate deeply on one task at a time.
+B) Move between several tasks or ideas.
+3.	In discussions, do you tend to:
+A) Stick to the main point.
+B) Diverge into related or tangential topics.
+4.	Are you more likely to:
+A) Complete tasks in a structured order.
+B) Shift between priorities based on interest.
+5.	Do you prefer thinking patterns that are:
+A) Clear and sequential.
+B) Open and associative.
+Answers:
+*	A: Focused
+*	B: Diffused
+
+17. Conventional: Conformist - Non-Conformist
+1.	Do you usually:
+A) Follow established norms and rules.
+B) Challenge conventions and create new paths.
+2.	In group settings, are you more likely to:
+A) Align with group opinions.
+B) Advocate for alternative perspectives.
+3.	When faced with traditions, do you:
+A) Embrace and uphold them.
+B) Question and seek to modify them.
+4.	Are you more comfortable:
+A) Staying within familiar frameworks.
+B) Exploring uncharted territories.
+5.	When solving problems, do you prefer:
+A) Proven, traditional methods.
+B) Innovative, unconventional approaches.
+Answers:
+*	A: Conformist
+*	B: Non-Conformist
+
+18. Speed: Deliberate & Slow - Witty & Quick
+1.	In decision-making, are you:
+A) Careful and methodical.
+B) Fast and instinctive.
+2.	When responding to challenges, do you:
+A) Take your time to weigh all options.
+B) Act quickly and adapt as needed.
+3.	In conversations, are you:
+A) Thoughtful and deliberate in your responses.
+B) Quick-witted and spontaneous.
+4.	Do you prioritize:
+A) Accuracy over speed.
+B) Speed over thoroughness.
+5.	When solving problems, do you:
+A) Analyze before acting.
+B) Act and adjust as necessary.
+Answers:
+*	A: Deliberate & Slow
+*	B: Witty & Quick
