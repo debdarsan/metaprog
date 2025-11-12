@@ -733,10 +733,10 @@ def main():
         st.session_state.assessment_complete = False
     
     sections = [
-        ('cognitive', st.session_state.cognitive_dimensions, st.session_state.cognitive_responses, "Cognitive (Thinking)", "Part 1 of 4"),
-        ('conative', st.session_state.conative_dimensions, st.session_state.conative_responses, "Conative (Choosing)", "Part 2 of 4"),
-        ('semantic', st.session_state.semantic_dimensions, st.session_state.semantic_responses, "Semantic (Meta)", "Part 3 of 4"),
-        ('emotional', st.session_state.emotional_dimensions, st.session_state.emotional_responses, "Emotional (Feeling)", "Part 4 of 4")
+        ('cognitive', st.session_state.cognitive_dimensions, st.session_state.cognitive_responses, "", "Part 1 of 4"),
+        ('conative', st.session_state.conative_dimensions, st.session_state.conative_responses, "", "Part 2 of 4"),
+        ('semantic', st.session_state.semantic_dimensions, st.session_state.semantic_responses, "", "Part 3 of 4"),
+        ('emotional', st.session_state.emotional_dimensions, st.session_state.emotional_responses, "", "Part 4 of 4")
     ]
     
     section_key, dimensions, responses_dict, section_name, section_progress = sections[st.session_state.current_section]
