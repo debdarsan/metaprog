@@ -211,12 +211,12 @@ a) I don't consider the impact much.
 b) I always consider how my actions affect others.
 c) I feel like I have to be perfect and consider every possible consequence, sometimes excessively.
 5. How do you feel when others don't follow the moral standards you uphold?
-a) Weak: I don't care much about others' moral choices.
-b) Strong: I feel disappointed or frustrated, but I understand people have different values.
-c) Overly Strong Super Ego: I feel frustrated and judgmental, unable to accept their behavior.
+a) I don't care much about others' moral choices.
+b) I feel disappointed or frustrated, but I understand people have different values.
+c) I feel frustrated and judgmental, unable to accept their behavior.
 Answers: 
 * Weak
-* Strong 
+* Strong
 * Overly Strong Super Ego
 
 9. Self-Monitoring: Low – High
